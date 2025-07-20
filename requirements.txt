@@ -1,0 +1,12 @@
+langchain-community
+langchain-openai
+faiss-cpu
+llama-index 
+llama-index-llms-openai
+llama-index-callbacks-arize-phoenix
+llama-index-embeddings-azure-openai
+llama-index-llms-azure-openai
+streamlit
+sec-api
+python-dotenv
+requests
